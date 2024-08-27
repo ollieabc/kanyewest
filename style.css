@@ -4,9 +4,24 @@ h1{
 }
 p{
 	font-size: 60px;
-	letter-spacing: 10px
+	letter-spacing: 5px;
+	color:red; 
+	font-size:100%;
 }
 img{
   width: 100%;
   border: 1px solid black;
+ 
 }
+p::first-line {
+  color: #ff0000;
+  font-variant: small-caps;
+}
+#West {
+background-color: black;
+color: red;
+text-align: center;
+}
+img.highlight:hover {
+  border: 10px solid black;
+} 
