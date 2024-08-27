@@ -1,2 +1,1 @@
-http://github.com/ollieabc/webpage1
-http://ollieabc.github.io/webpage1
+https://ollieabc.github.io/kanyewest/
